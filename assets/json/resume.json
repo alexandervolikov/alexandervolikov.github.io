@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "ALexander Volikov",
+    "label": "PhD in Environmental Chemistry",
+    "email": "alexandervolikov@mpikg.mpg.de",
+    "url": "https://alexandervolikov.github.io",
+    "location": {
+      "address": "Am Mühlenberg 1",
+      "postalCode": "14476",
+      "city": "Potsdam",
+      "countryCode": "DE",
+      "region": "Brandenburg"
+    }
+  },
+  "work": [
+    {
+      "name": "Max Planck Institute of Colloids and Interfaces",
+      "position": "Project Leader",
+      "location": "Potsdam, Germany",
+      "url": "https://mpikg.mpg.de",
+      "startDate": "2024-05-01",
+      "summary": "Group From biomass to humic matter systems. Colloid Department. (scientific advisor Prof. M. Antonietti)"
+    },
+    {
+      "name": "Max Planck Institute of Colloids and Interfaces",
+      "position": "Postdoc",
+      "location": "Potsdam, Germany",
+      "url": "https://mpikg.mpg.de",
+      "startDate": "2023-03-15",
+      "endDate": "2024-04-30",
+      "summary": "Group Sustainable Solvents for Green Processes. Colloid Department. (scientific advisors PhD S. Filonenko and Prof. M. Antonietti)"
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "position": "Research Fellow",
+      "location": "Moscow, Russia",
+      "url": "https://perminovalab.ru/en/",
+      "startDate": "2012-09-01",
+      "endDate": "2022-12-01",
+      "summary": "Natural Humic System laboratory, Chemistry Departmen",
+    },
+    {
+      "name": "Karlsruhe Institute of Technology",
+      "position": "Guest Ph.D student",
+      "location": "Karlsruhe, Germany",
+      "url": "https://www.mvm.kit.edu/english/index.php",
+      "startDate": "2013-01-01",
+      "endDate": "2013-04-01",
+      "summary": "Institute of Mechanical Process Engineering and Mechanics, (group of prof H. Nirschl)",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lomonosov Moscow State University",
+      "location": "Moscow, Russia",
+      "url": "https://www.chem.msu.ru/rus/weldept.html",
+      "area": "Environmental Chemistry",
+      "studyType": "PhD",
+      "startDate": "2011-10-01",
+      "endDate": "2018-03-26"
+    },
+    {
+      "institution": "Lomonosov Moscow State University",
+      "location": "Moscow, Russia",
+      "url": "https://www.chem.msu.ru/rus/weldept.html",
+      "area": "Organometallic chemistry",
+      "studyType": "Master",
+      "startDate": "2011-10-01",
+      "endDate": "2018-03-26"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Moscow State University award for young employees, graduate students and students who have achieved significant results in teaching and research activities",
+      "date": "2021-01-01",
+      "awarder": "Lomonosov Moscow State University",
+    },
+    {
+      "title": "Moscow government award for young scientists",
+      "date": "2018-02-01",
+      "awarder": "Moscow government",
+      "nomination": "Technologies of ecological development"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Organic chemistry", 
+        "Analytical chemistry", 
+        "Physical chemistry", 
+        "Environmental chemistry", 
+        "NMR", 
+        "Mass Spectrometry", 
+        "XRD", 
+        "SAXS", 
+        "AFM", 
+        "TEM", 
+        "SEM", 
+        "UV-vis spectroscopy", 
+        "Fluorescence", 
+        "Organic Synthesis", 
+        "Sorption", 
+        "Extraction", 
+        "Python (Pandas, NumPy, Scikit-Learn, Matplotlib)", 
+        "Data science"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ]
+}

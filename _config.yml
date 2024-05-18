@@ -22,7 +22,7 @@ repository               : "alexandervolikov/alexandervolikov.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Alexander Volikov, PhD"
+  name             : "Alexander Volikov"
   pronouns         : # example: "she/her"  
   bio              : "Project Leader in Max Planck Institute of Colloid and Interfaces"
   location         : "Germany, Potsdam"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.ru/citations?user=aF5EgjIAAAAJ&hl"
-  orcid            : "https://orcid.org/0000-0002-8475-8091"
+  orcid            : #
   researchgate     : "https://www.researchgate.net/profile/Alexander-Volikov-2"
 
   # Repositories and software development

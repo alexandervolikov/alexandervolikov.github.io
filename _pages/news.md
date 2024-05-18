@@ -11,8 +11,9 @@ redirect_from:
 {% for item in sorted limit:30 %}
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
 
-
-  ![{{ item.title }}]("https://github.com/alexandervolikov/alexandervolikov.github.io/tree/main/{{ item.img }}")
+  {% if item.graph_abstract != 0 %}
+    <a href="{{ item.permalink }}"><img src="{{ site.baseurl }}{{ item.img }}"/></a>
+  {% endif %}
   
   {{ item.short }}
   <hr>

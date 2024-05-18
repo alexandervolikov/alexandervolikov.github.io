@@ -2,6 +2,7 @@
 title: 'Future Post Post'
 date: 2199-01-01
 permalink: /posts/2012/08/post-post-4/
+short: "50-100 words"
 tags:
   - cool posts
   - category1

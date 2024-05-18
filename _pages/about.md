@@ -9,12 +9,13 @@ redirect_from:
 
 Site currently under construction. See updates soon.
 
-# Last News
+## Last News
 
-<h1>{{ site.posts.last.title }}</h1>
-{{ site.posts.last.content }}
+### [{{ site.posts.last.title }}]({{ site.baseurl }}{{ site.posts.last.permalink }})
 
-# About me
+{{ site.posts.last.short }}
+
+## About me
 
 Feel free to write me. Let's build humic spaceports together!
 

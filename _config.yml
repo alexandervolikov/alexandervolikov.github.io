@@ -21,7 +21,7 @@ repository               : "alexandervolikov/alexandervolikov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Alexander Volikov"
   pronouns         : # example: "she/her"  
   bio              : "Envoronmental chemist"
@@ -41,8 +41,8 @@ author:
 
 
   # Social media
-  instagram        : "https://www.instagram.com/ab.volikov/"
-  linkedin         : "https://www.linkedin.com/in/alexander-volikov/"
+  instagram        : "ab.volikov"
+  linkedin         : "alexander-volikov"
   telegram         : # URL
   twitter          : # Username for X / Twitter
   youtube          : # Username
@@ -111,7 +111,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 

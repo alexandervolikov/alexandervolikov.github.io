@@ -12,7 +12,7 @@ redirect_from:
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
 
   {% if item.img != 0 %}
-    ![{{ item.title }}]({{ site.baseurl }}{{ item.img }})
+    ![{{ item.title }}]("https://github.com/alexandervolikov/alexandervolikov.github.io/tree/main/{{ item.img }}")
   {% endif %}
 
   {{ item.short }}

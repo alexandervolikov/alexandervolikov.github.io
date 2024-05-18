@@ -11,8 +11,8 @@ redirect_from:
 {% for item in sorted limit:30 %}
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
 
-  {% if item.graph_abstract != 0 %}
-    <a href="{{ item.permalink }}"><img src="{{ site.baseurl }}{{ item.img }}"/></a>
+  {% if item.img != 0 %}
+    <a href="{{ item.permalink }}/" ><img src="{{ site.baseurl }}{{ item.img }}" weight=300/></a>
   {% endif %}
   
   {{ item.short }}

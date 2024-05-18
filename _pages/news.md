@@ -11,10 +11,9 @@ redirect_from:
 {% for item in sorted limit:30 %}
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
 
-  {% if item.img != 0 %}
-    ![{{ item.title }}]("https://github.com/alexandervolikov/alexandervolikov.github.io/tree/main/{{ item.img }}")
-  {% endif %}
 
+  ![{{ item.title }}]("https://github.com/alexandervolikov/alexandervolikov.github.io/tree/main/{{ item.img }}")
+  
   {{ item.short }}
   <hr>
 {% endfor %}

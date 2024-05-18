@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /post/
-title: "Post"
+permalink: /news/
+title: "News"
 author_profile: false
 redirect_from:
   - /wordpress/post-posts/

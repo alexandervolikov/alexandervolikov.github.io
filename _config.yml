@@ -22,11 +22,11 @@ repository               : "alexandervolikov/alexandervolikov.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Alexander Volikov"
+  name             : "Alexander Volikov, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Envoronmental chemist"
+  bio              : "Project Leader in Max Planck Institute of Colloid and Interfaces"
   location         : "Germany, Potsdam"
-  employer         : "Max Planck Institute of \nColloid and Interfaces"
+  employer         : "MPIKG"
   uri              : # URL
   email            : "alexander.volikov@mpikg.mpg.de" 
 

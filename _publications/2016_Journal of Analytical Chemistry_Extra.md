@@ -3,6 +3,7 @@ permalink: /publication/2016_Journal of Analytical Chemistry_Extra
 collection: publications
 title: Extraction of humic substances from fresh waters on solid-phase cartridges and their study by Fourier transform ion cyclotron resonance mass spectrometry
 author: Zherebker, A. Ya.; Perminova, I. V.; Konstantinov, A. I.; Volikov, A. B.; Kostyukevich, Yu. I.; Kononikhin, A. S.; Nikolaev, E. N.
+journal: Journal of Analytical Chemistry
 year: 2016
 doi: 10.1134/S1061934816040109
 

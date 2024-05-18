@@ -3,6 +3,7 @@ permalink: /publication/2022_Applied Microbiology and Biotechnology_Strat
 collection: publications
 title: Strategies for variable regulation of methanogenesis efficiency and velocity
 author: Efremenko, Elena; Stepanov, Nikolay; Senko, Olga; Maslova, Olga; Volikov, Alexander; Zhirkova, Anastasia; Perminova, Irina
+journal: Applied Microbiology and Biotechnology
 year: 2022
 doi: 10.1007/s00253-022-12148-x
 

@@ -3,6 +3,7 @@ permalink: /publication/2016_RSC Advances_Targe
 collection: publications
 title: Targeted design of water-based humic substances-silsesquioxane soft materials for nature-inspired remedial applications
 author: Volikov, Alexander B.; Ponomarenko, Sergei A.; Gutsche, Alexander; Nirschl, Hermann; Hatfield, Kirk; Perminova, Irina V.
+journal: RSC Advances
 year: 2016
 doi: 10.1039/C6RA08636E
 

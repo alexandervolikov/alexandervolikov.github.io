@@ -3,6 +3,7 @@ permalink: /publication/2023_Journal of the American Society for Mass Spectromet
 collection: publications
 title: NOMspectra- An Open-Source Python Package for Processing High Resolution Mass Spectrometry Data on Natural Organic Matter
 author: Volikov, Alexander; Rukhovich, Gleb; Perminova, Irina V.
+journal: Journal of the American Society for Mass Spectrometry
 year: 2023
 doi: 10.1021/jasms.3c00003
 

@@ -3,6 +3,7 @@ permalink: /publication/2023_Polymers_Enhan
 collection: publications
 title: Enhanced Antioxidant Activity and Reduced Cytotoxicity of Silver Nanoparticles Stabilized by Different Humic Materials
 author: Zykova, Maria V.; Volikov, Alexander B.; Buyko, Evgeny E.; Bratishko, Kristina A.; Ivanov, Vladimir V.; Konstantinov, Andrey I.; Logvinova, Lyudmila A.; Mihalyov, Dmitrii A.; Sobolev, Nikita A.; Zhirkova, Anastasia M.; Maksimov, Sergey V.; Perminova, Irina V.; Belousov, Mikhail V.
+journal: Polymers
 year: 2023
 doi: 10.3390/polym15163386
 

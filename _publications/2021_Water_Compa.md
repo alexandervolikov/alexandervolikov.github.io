@@ -3,6 +3,7 @@ permalink: /publication/2021_Water_Compa
 collection: publications
 title: Comparative Studies on Sorption Recovery and Molecular Selectivity of Bondesil PPL versus Bond Elut PPL Sorbents with Regard to Fulvic Acids
 author: Khreptugova, Anna N.; Mikhnevich, Tatiana A.; Molodykh, Alexandra A.; Melnikova, Sofia V.; Konstantinov, Andrey I.; Rukhovich, Gleb D.; Volikov, Alexander B.; Perminova, Irina V.
+journal: Water
 year: 2021
 doi: 10.3390/w13243553
 

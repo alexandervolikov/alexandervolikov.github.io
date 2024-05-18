@@ -3,6 +3,7 @@ permalink: /publication/2023_Polymers_Humic
 collection: publications
 title: Humic-Based Polyelectrolyte Complexes for Dust Suppression
 author: Volikov, Alexander; Karpukhina, Evgeniya A.; Larionov, Konstantin S.; Kozlov, Daniil A.; Perminova, Irina V.
+journal: Polymers
 year: 2023
 doi: 10.3390/polym15061514
 

@@ -3,6 +3,7 @@ permalink: /publication/2016_Chemosphere_Natur
 collection: publications
 title: Nature-like solution for removal of direct brown 1 azo dye from aqueous phase using humics-modified silica gel
 author: Volikov, Alexander B.; Ponomarenko, Sergey A.; Konstantinov, Andrey I.; Hatfield, Kirk; Perminova, Irina V.
+journal: Chemosphere
 year: 2016
 doi: 10.1016/j.chemosphere.2015.11.070
 

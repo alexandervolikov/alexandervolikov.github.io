@@ -3,6 +3,7 @@ permalink: /publication/2021_Agronomy_Direc
 collection: publications
 title: Directed Synthesis of Humic and Fulvic Derivatives with Enhanced Antioxidant Properties
 author: Volikov, Alexander; Mareev, Nikita; Konstantinov, Andrey; Molodykh, Alexandra; Melnikova, Sofia; Bazhanova, Alina; Gasanov, Mikhail; Nikolaev, Evgeny; Zherebker, Alexander; Volkov, Dmitry; Zykova, Maria; Perminova, Irina
+journal: Agronomy
 year: 2021
 doi: 10.3390/agronomy11102047
 

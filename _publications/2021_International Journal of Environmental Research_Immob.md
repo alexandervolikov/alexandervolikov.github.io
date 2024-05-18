@@ -3,6 +3,7 @@ permalink: /publication/2021_International Journal of Environmental Research_Imm
 collection: publications
 title: Immobilization of Cells of Hydrocarbon-oxidizing Bacteria for Petroleum Bioremediation Using New Materials
 author: Nikolaev, Yury; Borzenkov, Igor; Demkina, Elena; Loiko, Natalia; Kanapatsky, Timur; Perminova, Irina; Volikov, Alexander; Khreptugova, Anna; Bliznetc, Igor; Grigoreva, Nadezhda; El-Registan, Galina
+journal: International Journal of Environmental Research
 year: 2021
 doi: 10.1007/s41742-021-00367-5
 

@@ -3,6 +3,7 @@ permalink: /publication/2023_Separation Science and Technology_Stati
 collection: publications
 title: Static and dynamic sorption of DOM on Bond Elute PPL and Bondesil PPL sorbents- physical-chemical characteristics
 author: Volikov, Alexander B.; Sobolev, Nikita A.; Khreptugova, Anna N.; Perminova, Irina V.
+journal: Separation Science and Technology
 year: 2023
 doi: 10.1080/01496395.2022.2145224
 

@@ -3,6 +3,7 @@ permalink: /publication/2024_Biofuel Research Journal_Artif
 collection: publications
 title: Artificial humic substances as sustainable carriers for manganese- Development of a novel bio-based microfertilizer
 author: Volikov, Alexander; Schneider, Helen; Tarakina, Nadezda; Marzban, Nader; Antonietti, Markus; Filonenko, Svitlana
+journal: Biofuel Research Journal
 year: 2024
 doi: 10.18331/BRJ2024.11.1.3
 

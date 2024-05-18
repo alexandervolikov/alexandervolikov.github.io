@@ -3,6 +3,7 @@ permalink: /publication/2016_CATENA_Silan
 collection: publications
 title: Silanized humic substances act as hydrophobic modifiers of soil separates inducing formation of water-stable aggregates in soils
 author: Volikov, Alexander B.; Kholodov, Vladimir A.; Kulikova, Natalya A.; Philippova, Olga I.; Ponomarenko, Sergey A.; Lasareva, Elena V.; Parfyonova, Aksana M.; Hatfield, Kirk; Perminova, Irina V.
+journal: CATENA
 year: 2016
 doi: 10.1016/j.catena.2015.09.022
 

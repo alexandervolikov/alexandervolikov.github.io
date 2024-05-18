@@ -3,6 +3,7 @@ permalink: /publication/2021_Agronomy_Modif
 collection: publications
 title: Modified Humic Substances as Soil Conditioners- Laboratory and Field Trials
 author: Kulikova, Natalia A.; Volikov, Alexander B.; Filippova, Olga I.; Kholodov, Vladimir A.; Yaroslavtseva, Nadezhda V.; Farkhodov, Yulian R.; Yudina, Anna V.; Roznyatovsky, Vitaly A.; Grishin, Yuri K.; Zhilkibayev, Oral T.; Perminova, Irina V.
+journal: Agronomy
 year: 2021
 doi: 10.3390/agronomy11010150
 

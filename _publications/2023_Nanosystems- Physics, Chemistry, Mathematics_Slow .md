@@ -3,6 +3,7 @@ permalink: /publication/2023_Nanosystems- Physics, Chemistry, Mathematics_Slow
 collection: publications
 title: Slow zinc release from carboxymethylcellulose gels filled with humic zinc oxide nanocomposites
 author: Larionov, K.S.; Volikov, A.; Sobolev, N.A.; Kozlov, D.A.; Perminova, I.V.
+journal: Nanosystems- Physics, Chemistry, Mathematics
 year: 2023
 doi: 10.17586/2220-8054-2023-14-6-652-659
 

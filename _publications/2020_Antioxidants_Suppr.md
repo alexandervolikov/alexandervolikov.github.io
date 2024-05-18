@@ -3,6 +3,7 @@ permalink: /publication/2020_Antioxidants_Suppr
 collection: publications
 title: Suppression of Methane Generation during Methanogenesis by Chemically Modified Humic Compounds
 author: Efremenko, Elena; Senko, Olga; Stepanov, Nikolay; Mareev, Nikita; Volikov, Alexander; Perminova, Irina
+journal: Antioxidants
 year: 2020
 doi: 10.3390/antiox9111140
 

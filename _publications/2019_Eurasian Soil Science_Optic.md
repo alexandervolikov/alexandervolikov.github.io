@@ -3,6 +3,7 @@ permalink: /publication/2019_Eurasian Soil Science_Optic
 collection: publications
 title: Optical Properties of the Extractable Organic Matter Fractions in Typical Chernozems of Long-Term Field Experiments
 author: Kholodov, V. A.; Yaroslavtseva, N. V.; Farkhodov, Yu. R.; Yashin, M. A.; Lazarev, V. I.; Iliyn, B. S.; Philippova, O. I.; Volikov, A. B.; Ivanov, A. L.
+journal: Eurasian Soil Science
 year: 2019
 doi: 10.1134/S1064229320060058
 

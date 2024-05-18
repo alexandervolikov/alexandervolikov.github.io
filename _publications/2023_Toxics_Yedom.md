@@ -3,6 +3,7 @@ permalink: /publication/2023_Toxics_Yedom
 collection: publications
 title: Yedoma Permafrost Releases Organic Matter with Lesser Affinity for Cu2+ and Ni2+ as Compared to Peat from the Non-Permafrost Area- Risk of Rising Toxicity of Potentially Toxic Elements in the Arctic Ocean
 author: Sobolev, Nikita A.; Larionov, Konstantin S.; Mryasova, Darya S.; Khreptugova, Anna N.; Volikov, Alexander B.; Konstantinov, Andrey I.; Volkov, Dmitry S.; Perminova, Irina V.
+journal: Toxics
 year: 2023
 doi: 10.3390/toxics11060483
 

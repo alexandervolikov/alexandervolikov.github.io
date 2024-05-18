@@ -3,6 +3,7 @@ permalink: /publication/2020_Open Access Journal of Microbiology \& Biotechnolog
 collection: publications
 title: Role of the Structure of Humic Substances in Increasing Bacterial Survival
 author: Ya, Nikolaev
+journal: Open Access Journal of Microbiology \& Biotechnology
 year: 2020
 doi: 10.23880/OAJMB-16000174
 

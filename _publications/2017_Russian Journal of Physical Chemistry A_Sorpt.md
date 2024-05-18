@@ -3,6 +3,7 @@ permalink: /publication/2017_Russian Journal of Physical Chemistry A_Sorpt
 collection: publications
 title: Sorption of humic substances on a weakly basic anion-exchange resin- Relationship with the adsorbate structure
 author: Pankratov, D. A.; Anuchina, M. M.; Borisova, E. M.; Volikov, A. B.; Konstantinov, A. I.; Perminova, I. V.
+journal: Russian Journal of Physical Chemistry A
 year: 2017
 doi: 10.1134/S0036024417060176
 

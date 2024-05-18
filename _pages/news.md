@@ -10,5 +10,6 @@ redirect_from:
 {% assign sorted = site.posts | sort: 'date' | reverse %}
 {% for item in sorted limit:30 %}
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
+  
   {{ item.short }}
 {% endfor %}

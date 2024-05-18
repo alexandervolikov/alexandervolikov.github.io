@@ -2,23 +2,8 @@
 layout: default
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
+<h1>{{ page.title }}</h1>
+<p>{{ page.authors }}</p>
+<p>{{ page.journal }}, {{ page.year }}, <a href="http://dx.doi.org/{{ page.doi }}">doi: {{ page.doi }}</a></p>
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
-<div id="main" role="main">
-  {% include sidebar.html %}
-
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
-</div>
+{{ content }}

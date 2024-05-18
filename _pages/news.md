@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /blog/
-title: "Blog posts"
+permalink: /post/
+title: "Post"
 author_profile: false
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/post-posts/
 ---
 
 

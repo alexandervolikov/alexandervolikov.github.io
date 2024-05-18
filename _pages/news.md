@@ -12,7 +12,7 @@ redirect_from:
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
 
   {% if item.img != 0 %}
-    <a href="{{ site.baseurl }}{{ item.permalink }}"><img src="{{ item.img }}"/></a>
+    ({{ site.baseurl }}{{ item.permalink }})[{{ item.img }}]
   {% endif %}
 
   {{ item.short }}

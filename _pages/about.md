@@ -12,9 +12,9 @@ Site currently under construction. See updates soon.
 ## Last News
 
 {% assign sorted = site.posts | sort: 'date' | reverse %}
-### [{{ sorted.last.title }}]({{ site.baseurl }}{{ sorted.last.permalink }})
+### [{{ sorted.first.title }}]({{ site.baseurl }}{{ sorted.first.permalink }})
 
-{{ sorted.last.short }}
+{{ sorted.first.short }}
 
 ## About me
 

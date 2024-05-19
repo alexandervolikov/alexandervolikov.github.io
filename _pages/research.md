@@ -28,8 +28,6 @@ Our group carries out comprehensive research on AHM, from synthesis to practical
 
 The complex nature of humic substances covers several scientific disciplines and requires an interdisciplinary approach. HM are an object of study in chemistry, biology, mathematics, and even philosophy. In spite of this complexity, the profound importance of humic matter systems in the environment underlines the importance of our research.
 
-Let's build humic spaceport together! =)
-
 <div class="container">
     <img src="{{ site.baseurl }}/images/research3.jpg"/>
 </div>

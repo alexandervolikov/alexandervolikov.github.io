@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexander Volikov"
+title: "Alexander Volikov, PhD"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "From Biomass to Humic Matter Systems"
 permalink: /research/
 author_profile: false
 ---

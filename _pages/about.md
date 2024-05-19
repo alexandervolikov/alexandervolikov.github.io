@@ -10,11 +10,10 @@ redirect_from:
 Site currently under construction. See updates soon.
 
 ## Last News
-
 {% assign sorted = site.posts | sort: 'date' | reverse %}
 ### [{{ sorted.first.title }}]({{ site.baseurl }}{{ sorted.first.permalink }})
-
 {{ sorted.first.short }}
+["More news here"](https://alexandervolikov.github.io/news/)
 
 ## About me
 

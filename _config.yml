@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.ru/citations?user=aF5EgjIAAAAJ&hl"
   orcid            : #
-  researchgate     : "https://www.researchgate.net/profile/Alexander-Volikov-2"
+  researchgate     : #"https://www.researchgate.net/profile/Alexander-Volikov-2"
 
   # Repositories and software development
   github           : "alexandervolikov"

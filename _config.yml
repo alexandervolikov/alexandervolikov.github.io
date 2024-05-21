@@ -266,3 +266,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Tags
+tag_dir: tag

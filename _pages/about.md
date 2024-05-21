@@ -36,16 +36,25 @@ Feel free to reach out to me for research discussions or potential collaboration
 
 ## [Read more news](https://alexandervolikov.github.io/news/)
 
-{% capture counts_with_tags_string %}{% for tag in site.tags %}{{ tag[1] | size | prepend:"000000" | slice:-6,6 }}:{{ tag[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign counts_with_tags = counts_with_tags_string | split:"," | sort | reverse %}
+{% assign all_tags = '' | split: ',' %}
 
-<ol>
-  {% for count_with_tag in counts_with_tags %}
-    {% assign tag = count_with_tag | split:":" | last %}
-    {% assign count = site.tags[tag] | size %}
-    <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }} ({{ count }})</a></li>
-  {% endfor %}
-</ol>
+ {% for post in site.posts %}
+    {% for tags in post.tags %}
+        {% for tag in tags %}
+            {% assign all_tags = all_tags | push: tag %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+{% assign all_tags = all_tags | sort %}
+{% assign all_tags = all_tags | uniq %}
+
+<ul class="tag-list">
+    {% for tag in all_tags %}
+        <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
+    {% endfor %}
+
+</ul>
 
 
 <div class="container">

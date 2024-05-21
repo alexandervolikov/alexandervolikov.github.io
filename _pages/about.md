@@ -31,11 +31,14 @@ Feel free to reach out to me for research discussions or potential collaboration
   </div>
 
   {{ item.short }}
-  <hr>
 {% endfor %}
 
-## [Read more news](https://alexandervolikov.github.io/news/)
+[Read more my news](https://alexandervolikov.github.io/news/)
+
+<hr>
+
+Word cloud based on the titles of my [publications](https://alexandervolikov.github.io/publications/)
 
 <div class="container">
-    <a href="{{ site.baseurl }}/research"><img src="{{ site.baseurl }}/images/about3.png"/></a>
+    <a href="https://alexandervolikov.github.io/publications/"><img src="{{ site.baseurl }}/images/about4.jpg "/></a>
 </div>

@@ -36,25 +36,24 @@ Feel free to reach out to me for research discussions or potential collaboration
 
 ## [Read more news](https://alexandervolikov.github.io/news/)
 
-{% assign all_tags = '' | split: ',' %}
+<hr>
 
- {% for post in site.posts %}
-    {% for tags in post.tags %}
-        {% for tag in tags %}
-            {% assign all_tags = all_tags | push: tag %}
-        {% endfor %}
+## Tag cloud
+
+<tagcloud>
+  {% capture tags %}
+    {% for tag in site.tags %}
+      {{ tag[0] }}
     {% endfor %}
-{% endfor %}
+  {% endcapture %}
 
-{% assign all_tags = all_tags | sort %}
-{% assign all_tags = all_tags | uniq %}
-
-<ul class="tag-list">
-    {% for tag in all_tags %}
-        <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
-    {% endfor %}
-
-</ul>
+  {% assign sortedTags = tags | split:" " | sort %}
+  <ul class="cloud">
+  {% for st in sortedTags %}
+    <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>
+  {% endfor %}
+  </ul>
+</tagcloud>
 
 
 <div class="container">

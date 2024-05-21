@@ -29,7 +29,7 @@ Work experience
 Projects
 ======
 * 2023 - Current.
-Senior Executor	Humic matter systems. Synthesis of artificial humic mater, defining the relation between chemistry of artificial humic substances and their influence on plants and microbiome of soil. 
+Senior Executor and then Leader.	"From biomass to Humic matter systems". Synthesis of artificial humic mater, defining the relation between chemistry of artificial humic substances and their influence on plants and microbiome of soil. 
 * 2021 - 2023 Leader.	Development of highly adhesive dust suppressors based on humic substances for binding and fixing particles matter in order to reduce dust pollution in urban air. RFBR № 21-33-70130
 * 2021 – 2022
 Executor	Development of efficient approaches to the direct isolation of the components with desired biological activities from natural humic systems. RSF № 21-73-20202

@@ -40,20 +40,13 @@ Feel free to reach out to me for research discussions or potential collaboration
 
 ## Tag cloud
 
-<tagcloud>
-  {% capture tags %}
-    {% for tag in site.tags %}
-      {{ tag[0] }}
-    {% endfor %}
-  {% endcapture %}
+<div class="tagcloud">
 
-  {% assign sortedTags = tags | split:" " | sort %}
-  <ul class="cloud">
-  {% for st in sortedTags %}
-    <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>
-  {% endfor %}
-  </ul>
-</tagcloud>
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags = site_tags | split:',' | sort %}
+{% render_tagcloud %}
+
+</div>
 
 
 <div class="container">

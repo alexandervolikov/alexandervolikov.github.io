@@ -36,6 +36,18 @@ Feel free to reach out to me for research discussions or potential collaboration
 
 ## [Read more news](https://alexandervolikov.github.io/news/)
 
+{% capture counts_with_tags_string %}{% for tag in site.tags %}{{ tag[1] | size | prepend:"000000" | slice:-6,6 }}:{{ tag[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign counts_with_tags = counts_with_tags_string | split:"," | sort | reverse %}
+
+<ol>
+  {% for count_with_tag in counts_with_tags %}
+    {% assign tag = count_with_tag | split:":" | last %}
+    {% assign count = site.tags[tag] | size %}
+    <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }} ({{ count }})</a></li>
+  {% endfor %}
+</ol>
+
+
 <div class="container">
     <img src="{{ site.baseurl }}/images/about2.jpg"/>
 </div>

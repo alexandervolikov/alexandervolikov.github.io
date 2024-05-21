@@ -22,4 +22,4 @@ redirect_from:
   <hr>
 {% endfor %}
 
-# [View all Archive]({{ site.baseurl }}/year-archive)
+# [View all news archive]({{ site.baseurl }}/year-archive)

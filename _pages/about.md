@@ -37,5 +37,5 @@ Feel free to reach out to me for research discussions or potential collaboration
 ## [Read more news](https://alexandervolikov.github.io/news/)
 
 <div class="container">
-    <img src="{{ site.baseurl }}/images/about2.jpg"/>
+    <img src="{{ site.baseurl }}/images/about2.png"/>
 </div>

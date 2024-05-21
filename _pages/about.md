@@ -36,19 +36,6 @@ Feel free to reach out to me for research discussions or potential collaboration
 
 ## [Read more news](https://alexandervolikov.github.io/news/)
 
-<hr>
-
-## Tag cloud
-
-<div class="tagcloud">
-
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags = site_tags | split:',' | sort %}
-{% render_tagcloud %}
-
-</div>
-
-
 <div class="container">
     <img src="{{ site.baseurl }}/images/about2.jpg"/>
 </div>

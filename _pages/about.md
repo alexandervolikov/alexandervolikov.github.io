@@ -23,6 +23,7 @@ Feel free to reach out to me for research discussions or potential collaboration
 {% for item in sorted limit:3 %}
   [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
   <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ item.date | default: "1900-01-01" | date_to_xmlschema }}">{{ item.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+  <hr>
 {% endfor %}
 
 ### [Read more](https://alexandervolikov.github.io/news/)

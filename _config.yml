@@ -266,23 +266,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Tags
-tag_dir: tag
-
-jekyll-archives:
-  enabled:
-    - year
-    - month
-    - tags
-    - categories
-  layout: 'page'
-  layouts:
-    year: year
-    month: month
-    tag: tag_and_category
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'

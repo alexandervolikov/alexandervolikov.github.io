@@ -40,5 +40,5 @@ Feel free to reach out to me for research discussions or potential collaboration
 Word cloud based on the titles of my [publications](https://alexandervolikov.github.io/publications/)
 
 <div class="container">
-    <a href="https://alexandervolikov.github.io/publications/"><img src="{{ site.baseurl }}/images/about4.jpg "/></a>
+    <a href="https://alexandervolikov.github.io/publications/"><img src="{{ site.baseurl }}/images/about5.jpg "/></a>
 </div>

@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Alexander Volikov, PhD"
 author_profile: true

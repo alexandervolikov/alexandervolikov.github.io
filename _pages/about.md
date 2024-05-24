@@ -1,15 +1,18 @@
 ---
 permalink: /
 title: "Alexander Volikov, PhD"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/about1.jpg"/>
-</div>
+<img align="left" src="https://alexandervolikov.github.io/images/profile.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 16px 8px 8px 8px; margin-right: 40px;"/>
+Project Leader 
+[Max Planck Institute of Colloid and Interfaces](https://www.mpikg.mpg.de/)  
+
+Email: alexandervolikov AT mpikg DOT mpg DOT de  
+[[Google Scholar](https://scholar.google.ru/citations?user=aF5EgjIAAAAJ&hl) | [LinkedIn](https://www.linkedin.com/in/alexander-volikov/)] | [Instagram](https://www.instagram.com/ab.volikov/)
 
 ## About Me
 

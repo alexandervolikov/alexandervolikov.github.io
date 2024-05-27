@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<meta name="google-site-verification" content="dNJA_pkN5JO6hTzblVhgCsYSCcVwYcr_f3AampPw_MA" />
+
 <div class="container">
     <img src="{{ site.baseurl }}/images/about1.jpg"/>
 </div>

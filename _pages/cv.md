@@ -31,7 +31,7 @@ Received Funding
 
 Teaching
 ======
-* 2021 . Lecturer of the practical course. Preparation of humic-silanol compositions and study of their sorption properties towards toxicants. Semester weekly four hours. Master students.
+* 2021 . Lecturer of the practical course. Preparation of humic-silanol compositions and study of their sorption properties towards toxicants. Semester weekly four hours. Master students. Lomonosov Moscow State University, Russia
 * 2019 . Lecturer of the practical course. Separation and characterization of humic substances. Lomonosov Moscow State University, Russia
 * 2011 - Current.	Supervision of students and researchers.
 

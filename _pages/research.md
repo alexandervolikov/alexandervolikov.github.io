@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "From Biomass to Humic Matter Systems"
+title: "Chemistry of artificial humic substances"
 permalink: /research/
 author_profile: false
 ---

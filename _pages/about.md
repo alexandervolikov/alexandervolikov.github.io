@@ -13,7 +13,7 @@ redirect_from:
 
 ## About Me
 
-Hello! I'm Alexander, an environmental chemist and project leader at the Max Planck Institute of Colloids and Interfaces.  My research group focuses on humic matter systems, exploring ways to convert biomass into artificial humic substances. We delve into both the synthesis and potential applications of these materials.  Personally, I'm fascinated by how environmental factors influence the evolution of organic matter. Learn more about our research on [humic matter systems](https://alexandervolikov.github.io/research/)
+Hello! I'm Alexander, an environmental chemist and group leader at the Max Planck Institute of Colloids and Interfaces.  My research group focuses on humic matter systems, exploring ways to convert biomass into artificial humic substances. We delve into both the synthesis and potential applications of these materials.  Personally, I'm fascinated by how environmental factors influence the evolution of organic matter. Learn more about our research on [humic matter systems](https://alexandervolikov.github.io/research/)
 
 Feel free to reach out to me for research discussions or potential collaborations.
 

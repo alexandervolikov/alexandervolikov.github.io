@@ -23,11 +23,11 @@ Work experience
 
 Received Funding
 ======
-* 2022 . PI. "Development of highly adhesive dust suppressors based on humic substances for binding and fixing particles matter in order to reduce dust pollution in urban air." RFBR № 21-33-70130. 55000$.
-* 2021 . WP leader. "Obtaining, research of properties and application of chemical compositions as scale inhibitors". Irkutsk Oil Company. 40000$.
-* 2020 . WP leader. "Bionanomaterials and compositions with antimicrobial and wound-healing properties based on humic substances". RSF № 20-63-47070. 320000$.
-* 2020 . WP leader. "Laboratory and field studies for development of in situ technology for cleaning up oil-contaminated surfaces on the spill-site located in Norilsk (Krasnoyarsk Region)". Nornickel. 270000$
-* 2019 . WP leader. "Development and synthesis of active redox-agents and binders based on quinone-derivatives of humic substances aimed for biocatalytic inhibition of gas emission from landfills." RFBR № 18-29-25065. 240000$
+* 2022 . PI. "Development of highly adhesive dust suppressors based on humic substances for binding and fixing particles matter in order to reduce dust pollution in urban air." RFBR № 21-33-70130.
+* 2021 . WP leader. "Obtaining, research of properties and application of chemical compositions as scale inhibitors". Irkutsk Oil Company.
+* 2020 . WP leader. "Bionanomaterials and compositions with antimicrobial and wound-healing properties based on humic substances". RSF № 20-63-47070.
+* 2020 . WP leader. "Laboratory and field studies for development of in situ technology for cleaning up oil-contaminated surfaces on the spill-site located in Norilsk (Krasnoyarsk Region)". Nornickel.
+* 2019 . WP leader. "Development and synthesis of active redox-agents and binders based on quinone-derivatives of humic substances aimed for biocatalytic inhibition of gas emission from landfills." RFBR № 18-29-25065.
 
 Teaching
 ======

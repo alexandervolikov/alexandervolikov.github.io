@@ -11,7 +11,9 @@ author_profile: false
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Last time updated (2024-05-20)
+Last time updated (2024-06-13)
+
+[26] Fliri L., Dubivka K., Rusakov D., __Volikov A.__, Guizani C., Hietala S., Filonenko S., Hummel M. (2024). Identification of a polyfuran network as the initial carbonization intermediate in cellulose pyrolysis: A comparative analysis with cellulosic hydrochars. Journal of Analytical and Applied Pyrolysis, 18, 106591. [https://doi.org/10.1016/j.jaap.2024.106591](https://doi.org/10.1016/j.jaap.2024.106591)
 
 [25] __Volikov, A\.,__ Schneider, H\., Tarakina, N\. V\., Marzban, N\., Antonietti, M\., & Filonenko, S\. \(2024\)\. Artificial humic substances as sustainable carriers for manganese: Development of a novel bio\-based microfertilizer\. *Biofuel Research Journal*, 11\(1\), 2013\-2024\. [https://doi\.org/10\.18331/BRJ2024\.11\.1\.3](https://doi.org/10.18331/BRJ2024.11.1.3)
 

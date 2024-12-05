@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2018 - PhD in Environmental Chemistry. Lomonosov Moscow State University, Russia (scientific advisor Prof. I.V. Perminova).
-* 2011 - M.Sc. in Chemistry, Specialization: Organometallic chemistry. Lomonosov Moscow State University, Russia
+* 2018 - PhD in Sustainable Chemistry. Lomonosov Moscow State University, Russia (scientific advisor Prof. I.V. Perminova).
+* 2011 - M.Sc. in Chemistry, Organometallic chemistry. Lomonosov Moscow State University, Russia
 
 Work experience
 ======

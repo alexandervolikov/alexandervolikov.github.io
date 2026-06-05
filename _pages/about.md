@@ -13,32 +13,22 @@ redirect_from:
 
 ## About Me
 
-Hello! I'm Alexander, a sustainable chemist and group leader at the Max Planck Institute of Colloids and Interfaces.  My research group focuses on humic matter systems, exploring ways to convert biomass into artificial humic substances. We delve into both the synthesis and potential applications of these materials.  Personally, I'm fascinated by how environmental factors influence the evolution of organic matter. Learn more about our research on [humic matter systems](https://alexandervolikov.github.io/research/)
+I'm a PhD chemist with 15+ years in sustainable and applied chemistry, focused on
+turning chemistry into products and processes that work outside the lab. I develop
+tailored chemical solutions across the full development cycle — from synthesis concept
+through scale-up and pilot to field application.
 
-Feel free to reach out to me for research discussions or potential collaborations.
+I've delivered applied R&D for industrial clients including Nornickel (in-situ oil
+remediation) and the Irkutsk Oil Company (scale inhibitors), and my work has produced
+two patents. My technical home is humic substances, biostimulants, and micronutrient
+fertilizers, with hands-on expertise in organic and hydrothermal synthesis and a broad
+analytical toolkit (NMR, MS, XRD, SEM/TEM, HPLC/GC).
 
-## Last News
+I currently lead a small international R&D team at the Max Planck Institute of Colloids
+and Interfaces, running projects end to end — milestones, resources, and budget — and
+mentoring junior researchers.
 
-{% assign sorted = site.posts | sort: 'date' | reverse %}
-{% for item in sorted limit:1 %}
-  [{{ item.title }}]({{ site.baseurl }}{{ item.permalink }})
-   <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ item.date | default: "1900-01-01" | date_to_xmlschema }}">{{ item.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-   
-   <div class="container">
-    {% if item.img != 0 %}
-      <a href="{{ item.permalink }}" ><img src="{{ site.baseurl }}{{ item.img }}" style="width: 300px;"/></a>
-    {% endif %}
-  </div>
+I hold permanent residency in Germany (Niederlassungserlaubnis), so no visa sponsorship
+is required.
 
-  {{ item.short }}
-{% endfor %}
 
-[Read more my news](https://alexandervolikov.github.io/news/)
-
-<hr>
-
-Word cloud based on the titles of my [publications](https://alexandervolikov.github.io/publications/)
-
-<div class="container">
-    <a href="https://alexandervolikov.github.io/publications/"><img src="{{ site.baseurl }}/images/about5.jpg "/></a>
-</div>

@@ -9,39 +9,85 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2018 - PhD in Sustainable Chemistry. Lomonosov Moscow State University, Russia (scientific advisor Prof. I.V. Perminova).
-* 2011 - M.Sc. in Chemistry, Organometallic chemistry. Lomonosov Moscow State University, Russia
+## Profile
 
-Work experience
-======
-* 2024 – now.	Group leader “Chemistry of artificial humic substances”. Max Planck Institute of Colloids and interfaces, Potsdam, Germany
-* 2023 – 2024. Postdoctoral researcher, Max Planck Institute of Colloids and interfaces, Potsdam, Germany (scientific advisor Prof. M. Antonietti)
-* 2012 – 2022. Research Fellow, Lomonosov Moscow State University, Chemistry Department, Moscow, Russia (scientific advisor Prof. I.V. Perminova)
-* 2013 . Visiting researcher at the Karlsruhe Institute of Technology (KIT), Institute of Mechanical Process Engineering and Mechanics, Germany. (group of prof H. Nirschl).
+PhD chemist with 15+ years in sustainable and applied chemistry. Experienced in leading R&D projects end-to-end — from laboratory synthesis to pilot scale — and in working directly with industrial clients. Targeting industry roles in specialty chemicals, agrochemicals, or biostimulants. Permanent residency (Niederlassungserlaubnis); no visa sponsorship required.
 
-Received Funding
-======
-* 2022 . PI. "Development of highly adhesive dust suppressors based on humic substances for binding and fixing particles matter in order to reduce dust pollution in urban air." RFBR № 21-33-70130.
-* 2021 . WP leader. "Obtaining, research of properties and application of chemical compositions as scale inhibitors". Irkutsk Oil Company.
-* 2020 . WP leader. "Bionanomaterials and compositions with antimicrobial and wound-healing properties based on humic substances". RSF № 20-63-47070.
-* 2020 . WP leader. "Laboratory and field studies for development of in situ technology for cleaning up oil-contaminated surfaces on the spill-site located in Norilsk (Krasnoyarsk Region)". Nornickel.
-* 2019 . WP leader. "Development and synthesis of active redox-agents and binders based on quinone-derivatives of humic substances aimed for biocatalytic inhibition of gas emission from landfills." RFBR № 18-29-25065.
+---
 
-Teaching
-======
-* 2021 . Lecturer of the practical course. Preparation of humic-silanol compositions and study of their sorption properties towards toxicants. Semester weekly four hours. Master students. Lomonosov Moscow State University, Russia
-* 2019 . Lecturer of the practical course. Separation and characterization of humic substances. Lomonosov Moscow State University, Russia
-* 2011 - Current.	Supervision of students and researchers.
+## Work Experience
 
-Awards
-======
-* 2021	Moscow State University award for young employees, graduate students and students who have achieved significant results in teaching and research activities.
-* 2018	Moscow government award for young scientists. Nomination "Technologies of ecological development" 
+**Max Planck Institute of Colloids and Interfaces** — Potsdam, Germany
 
-Languages
-======
-* English – Professional working proficiency
-* German – Intermediate
-* Russian – Native
+*Project Leader – Humic Matter Systems* (2024 – present)
+- Lead an interdisciplinary research group (2 PhD students, 1 technician): technical guidance, performance tracking, mentoring.
+- Responsible for lab operations, equipment management, and procurement (annual budget up to €75,000).
+- Define technical milestones for sustainable synthesis of artificial humic substances and soil microbiome studies.
+
+*Postdoctoral Researcher* (2023 – 2024)
+- Developed and tested manganese-based micronutrient fertilizers with focus on chemical stability and bioavailability.
+- Hydrothermal synthesis of artificial humic substances and characterisation of reactive properties.
+
+**Lomonosov Moscow State University** — Moscow, Russia
+
+*Research Fellow, Chemistry Department* (2012 – 2022)
+- Industry-oriented R&D across the full development cycle: lab synthesis → scale-up → pilot trials → field application.
+- Project leadership from 2019 onward; direct management of small teams (2–3 people).
+- Client projects: in-situ oil remediation technology for **Nornickel** (field deployment); scale inhibitor development for **Irkutsk Oil Company**.
+- Developed adhesive dust suppressants to reduce urban air pollution.
+- 2 patents resulting from applied development work.
+
+*Visiting Researcher* — Karlsruhe Institute of Technology (KIT), Germany (2013)
+- Institute of Mechanical Process Engineering and Mechanics (group of Prof. H. Nirschl).
+
+---
+
+## Education
+
+* **PhD, Sustainable Chemistry** — Lomonosov Moscow State University, Russia (2018). Advisor: Prof. I.V. Perminova.
+* **M.Sc., Chemistry** (Organometallic Chemistry) — Lomonosov Moscow State University, Russia (2011).
+
+---
+
+## Core Competencies
+
+- **Project & R&D Management:** full development cycle from lab to pilot scale; milestone planning, resource and budget management.
+- **Team Leadership:** direct leadership of small international teams (2–3 people); informal co-supervision of two PhD students through to successful defense.
+- **Product Development:** fertilizers, micronutrients, scale inhibitors, and binders — with focus on stability and bioavailability.
+- **Industrial Collaboration:** technical support for partners, field and pilot trials, direct client contact.
+- **Analytics & Synthesis:** NMR (1D/2D), MS, XRD, SEM/TEM, HPLC/GC, UV-Vis, fluorescence; organic and hydrothermal synthesis.
+- **Digital & Data:** Python (data science), advanced data visualisation.
+
+---
+
+## Funding & Awards
+
+* 2022 — PI. Dust suppressors based on humic substances (RFBR № 21-33-70130).
+* 2021 — WP leader. Scale inhibitors (Irkutsk Oil Company).
+* 2020 — WP leader. Bionanomaterials with antimicrobial properties based on humic substances (RSF № 20-63-47070).
+* 2020 — WP leader. In-situ oil remediation for Norilsk spill site (Nornickel).
+* 2019 — WP leader. Redox-agents based on quinone-derivatives of humic substances (RFBR № 18-29-25065).
+* 2021 — Moscow State University Award for young employees for significant results in research.
+* 2018 — Moscow Government Award for young scientists — "Technologies of Ecological Development."
+
+---
+
+## Professional Development
+
+* **Geprüfter Projektmanager Wirtschaftschemie (GDCh)** — planned Spring 2027 (in-person course).
+
+---
+
+## Teaching & Supervision
+
+* 2021 — Lecturer, practical course: Preparation of humic-silanol compositions. Master students, Lomonosov MSU.
+* 2019 — Lecturer, practical course: Separation and characterisation of humic substances, Lomonosov MSU.
+* 2011 – present — Supervision of students and researchers; informal co-supervision of 2 PhD students to completion.
+
+---
+
+## Languages
+
+* **Russian** — Native
+* **English** — Professional working proficiency
+* **German** — B1 (actively studying toward C1)

@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:right;font-size:0.9em;margin-bottom:0.5em;">
-  <strong>EN</strong> &nbsp;|&nbsp; <a href="{{ site.baseurl }}/de/">DE</a>
-</div>
-
 <div class="container">
     <img src="{{ site.baseurl }}/images/about1.jpg"/>
 </div>

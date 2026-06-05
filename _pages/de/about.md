@@ -4,10 +4,6 @@ title: "Alexander Volikov, PhD"
 author_profile: true
 ---
 
-<div style="text-align:right;font-size:0.9em;margin-bottom:0.5em;">
-  <a href="{{ site.baseurl }}/">EN</a> &nbsp;|&nbsp; <strong>DE</strong>
-</div>
-
 <div class="container">
     <img src="{{ site.baseurl }}/images/about1.jpg"/>
 </div>

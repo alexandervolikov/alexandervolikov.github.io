@@ -7,10 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-<div style="text-align:right;font-size:0.9em;margin-bottom:0.5em;">
-  <a href="{{ site.baseurl }}/cv/">EN</a> &nbsp;|&nbsp; <strong>DE</strong>
-</div>
-
 ## Berufsprofil
 
 Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und angewandten Chemie. Erfahren in der Leitung von F&E-Projekten über den gesamten Entwicklungszyklus — vom Labor bis in den Pilotmaßstab — und in der direkten Zusammenarbeit mit Industriekunden. Angestrebter Wechsel in die chemische Industrie, Schwerpunkt Spezialchemie, Agrochemie oder Biostimulanzien. Niederlassungserlaubnis vorhanden; kein Visum-Sponsoring erforderlich.

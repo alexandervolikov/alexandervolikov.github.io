@@ -20,6 +20,20 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <!-- language switcher -->
+          {% if page.url contains '/de/' %}
+            {% assign en_url = page.url | remove: '/de' %}
+            <li class="masthead__menu-item lang-switcher">
+              <a href="{{ base_path }}{{ en_url }}" title="English" class="lang-flag">🇬🇧</a>
+              <span title="Deutsch" class="lang-flag lang-flag--active">🇩🇪</span>
+            </li>
+          {% else %}
+            {% assign de_url = '/de' | append: page.url %}
+            <li class="masthead__menu-item lang-switcher">
+              <span title="English" class="lang-flag lang-flag--active">🇬🇧</span>
+              <a href="{{ base_path }}{{ de_url }}" title="Deutsch" class="lang-flag">🇩🇪</a>
+            </li>
+          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

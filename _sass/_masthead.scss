@@ -64,23 +64,23 @@
   white-space: nowrap;
 }
 
-.lang-btn {
+.lang-flag {
   display: inline-block !important;
   margin: 0 0.1em !important;
   padding: 0 !important;
-  font-size: 0.8em;
-  font-weight: 700;
-  letter-spacing: 0.05em;
+  font-size: 1.3em;
+  line-height: 1;
   text-decoration: none !important;
-  color: #222 !important;
+  transition: filter 0.2s ease, opacity 0.2s ease;
 
   &--active {
-    color: #aaa !important;
+    filter: grayscale(100%);
+    opacity: 0.55;
     cursor: default;
     pointer-events: none;
   }
 
   &:not(&--active):hover {
-    color: #555 !important;
+    opacity: 0.75;
   }
 }

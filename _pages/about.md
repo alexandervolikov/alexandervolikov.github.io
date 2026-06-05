@@ -28,7 +28,4 @@ I currently lead a small international R&D team at the Max Planck Institute of C
 and Interfaces, running projects end to end — milestones, resources, and budget — and
 mentoring junior researchers.
 
-I hold permanent residency in Germany (Niederlassungserlaubnis), so no visa sponsorship
-is required.
-
 

@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align:right;font-size:0.9em;margin-bottom:0.5em;">
+  <strong>EN</strong> &nbsp;|&nbsp; <a href="{{ site.baseurl }}/de/cv/">DE</a>
+</div>
+
 ## Profile
 
 PhD chemist with 15+ years in sustainable and applied chemistry. Experienced in leading R&D projects end-to-end — from laboratory synthesis to pilot scale — and in working directly with industrial clients. Targeting industry roles in specialty chemicals, agrochemicals, or biostimulants. Permanent residency (Niederlassungserlaubnis).

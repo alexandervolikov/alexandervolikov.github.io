@@ -7,6 +7,10 @@ author_profile: false
 
 {% include base_path %}
 
+<div style="text-align:right;font-size:0.9em;margin-bottom:0.5em;">
+  <strong>EN</strong> &nbsp;|&nbsp; <a href="{{ site.baseurl }}/de/research/">DE</a>
+</div>
+
 <div class="container">
     <img src="{{ site.baseurl }}/images/research2.jpg"/>
 </div>

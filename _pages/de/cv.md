@@ -9,7 +9,7 @@ author_profile: false
 
 ## Berufsprofil
 
-Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und angewandten Chemie. Erfahren in der Leitung von F&E-Projekten über den gesamten Entwicklungszyklus — vom Labor bis in den Pilotmaßstab — und in der direkten Zusammenarbeit mit Industriekunden. Angestrebter Wechsel in die chemische Industrie, Schwerpunkt Spezialchemie, Agrochemie oder Biostimulanzien. Niederlassungserlaubnis vorhanden; kein Visum-Sponsoring erforderlich.
+Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und angewandten Chemie. Erfahren in der Leitung von F&E-Projekten über den gesamten Entwicklungszyklus — vom Labor bis in den Pilotmaßstab — und in der direkten Zusammenarbeit mit Industriekunden. Angestrebter Wechsel in die chemische Industrie, Schwerpunkt Spezialchemie, Agrochemie oder Biostimulanzien. Niederlassungserlaubnis vorhanden.
 
 ---
 

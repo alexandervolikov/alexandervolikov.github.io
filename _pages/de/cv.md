@@ -9,7 +9,7 @@ author_profile: false
 
 ## Berufsprofil
 
-Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und angewandten Chemie. Erfahren in der Leitung von F&E-Projekten über den gesamten Entwicklungszyklus — vom Labor bis in den Pilotmaßstab — und in der direkten Zusammenarbeit mit Industriekunden. Angestrebter Wechsel in die chemische Industrie, Schwerpunkt Spezialchemie, Agrochemie oder Biostimulanzien. Niederlassungserlaubnis vorhanden.
+Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und angewandten Chemie, mit Schwerpunkt auf Spezialchemie, Agrochemie und Biostimulanzien. Erfahren in der Leitung von F&E-Projekten über den gesamten Entwicklungszyklus — vom Labor bis in den Pilotmaßstab — und in der direkten Zusammenarbeit mit Industriekunden. Niederlassungserlaubnis vorhanden.
 
 ---
 
@@ -31,7 +31,7 @@ Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und ange
 *Wissenschaftlicher Mitarbeiter, Chemische Fakultät* (2012 – 2022)
 - Industrienahe F&E über den gesamten Entwicklungszyklus: Laborsynthese → Scale-up → Pilotversuch → Feldanwendung.
 - Projektleitung ab 2019; direkte Führung kleiner Teams (2–3 Personen).
-- Kundenprojekte: Entwicklung von In-situ-Ölsanierungstechnologien für **Nornickel** (Feldeinsatz); Belagsinhibitoren für die **Irkutsk Oil Company**.
+- Kundenprojekte: Entwicklung von In-situ-Ölsanierungstechnologien für **Nornickel** (begrenzter Feldeinsatz); Belagsinhibitoren für die **Irkutsk Oil Company**.
 - Entwicklung adhäsiver Staubbindemittel zur Reduktion der urbanen Luftverschmutzung.
 - 2 Patente als Ergebnis der industrienahen Entwicklungsarbeit.
 

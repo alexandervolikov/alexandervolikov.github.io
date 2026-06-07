@@ -11,7 +11,7 @@ redirect_from:
 
 ## Profile
 
-PhD chemist with 15+ years in sustainable and applied chemistry. Experienced in leading R&D projects end-to-end — from laboratory synthesis to pilot scale — and in working directly with industrial clients. Targeting industry roles in specialty chemicals, agrochemicals, or biostimulants. Permanent residency (Niederlassungserlaubnis).
+PhD chemist with 15+ years in sustainable and applied chemistry, with a focus on specialty chemicals, agrochemicals, and biostimulants. Experienced in leading R&D projects end-to-end — from laboratory synthesis to pilot scale — and in working directly with industrial clients. Permanent residency (Niederlassungserlaubnis).
 
 ---
 
@@ -33,7 +33,7 @@ PhD chemist with 15+ years in sustainable and applied chemistry. Experienced in 
 *Research Fellow, Chemistry Department* (2012 – 2022)
 - Industry-oriented R&D across the full development cycle: lab synthesis → scale-up → pilot trials → field application.
 - Project leadership from 2019 onward; direct management of small teams (2–3 people).
-- Client projects: in-situ oil remediation technology for **Nornickel** (field deployment); scale inhibitor development for **Irkutsk Oil Company**.
+- Client projects: in-situ oil remediation technology for **Nornickel** (limited field deployment); scale inhibitor development for **Irkutsk Oil Company**.
 - Developed adhesive dust suppressants to reduce urban air pollution.
 - 2 patents resulting from applied development work.
 
@@ -67,7 +67,7 @@ PhD chemist with 15+ years in sustainable and applied chemistry. Experienced in 
 * 2020 — WP leader. Bionanomaterials with antimicrobial properties based on humic substances (RSF № 20-63-47070).
 * 2020 — WP leader. In-situ oil remediation for Norilsk spill site (Nornickel).
 * 2019 — WP leader. Redox-agents based on quinone-derivatives of humic substances (RFBR № 18-29-25065).
-* 2021 — Moscow State University Award for young employees for significant results in research.
+* 2021 — Moscow State University Award for young employees for significant results in research and teaching.
 * 2018 — Moscow Government Award for young scientists — "Technologies of Ecological Development."
 
 ---

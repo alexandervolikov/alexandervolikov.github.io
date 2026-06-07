@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Research"
+  - title: "Expertise"
     url: /research/
 
   - title: "CV"
@@ -8,7 +8,7 @@ main:
 
 # German nav
 de_main:
-  - title: "Forschung"
+  - title: "Expertise"
     url: /de/research/
 
   - title: "Lebenslauf"

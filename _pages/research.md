@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chemistry of artificial humic substances"
+title: "Expertise & Projects"
 permalink: /research/
 author_profile: false
 ---
@@ -11,23 +11,30 @@ author_profile: false
     <img src="{{ site.baseurl }}/images/research2.jpg"/>
 </div>
 
-**Soil** degradation caused by over-fertilisation and deforestation represents a significant threat to agricultural production and **ecological balance**. Globally, two billion hectares of arable land are affected by moderate to severe degradation, resulting in lower crop yields, loss of biodiversity and reduced carbon sequestration. The primary mechanism through which soil degradation occurs is the loss of organic matter, which is mainly **humic matter** (HM). These substances are the product of biomass decomposition and consist of structural residues of lignins, sugars, peptides, etc. Humic substances are characterised by **extreme structural heterogeneity**, which gives them systemic properties such as kinetic resistance to biochemical degradation in the presence of high biological activity. This property makes them difficult to assimilate by the microbiome and allows them to act as **soil structuring agents** for long periods of time. In addition to their binding role in the soil, humic substances perform essential functions through the various structural groups they contain, such as phenolic, carboxylic and carbonyl groups. They facilitate the **transport of micro-nutrients** and organic compounds, influence **plant growth** and modulate the activity of the **microbiome**.
+I develop functional products based on humic substances — from molecular design and synthesis through to scale-up and field application. My work sits at the intersection of green chemistry, agriculture, and environmental technology, turning biomass and bio-waste into materials that improve soils, deliver nutrients, and solve industrial problems.
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/research1.png"/>
-</div>
+## Current work
 
-In our research, we are investigating accelerated ways to produce humic matter from biomass, deviating from the natural timeframe of several years to several centuries. Using **hydrothermal treatment**, a green chemistry method, we reproduce the humification process in the laboratory, converting bio-waste such as leaves and tree bark into **artificial humic matter** (AHM) within hours. AHM mimic the properties of natural HM, providing an environmentally friendly replacement for fossil materials. Studies show the effectiveness of AHM in improving soil quality, increasing crop yields and sequestering carbon dioxide.
+At the Max Planck Institute of Colloids and Interfaces I lead a small research group studying the hydrothermal synthesis of artificial humic substances. Using hydrothermal treatment — a green-chemistry route — we convert bio-waste such as leaves and bark into artificial humic matter within hours, reproducing in the laboratory a process that takes nature years to centuries. These materials mimic natural humic substances and offer a renewable alternative to fossil-derived inputs, with demonstrated benefits for soil quality, crop yield, and carbon sequestration. I supervise two PhD students, coordinate the group's research, and collaborate with partner groups and institutes.
 
-Our group carries out comprehensive research on AHM, from synthesis to practical applications in the field. Key research areas include:
+## Areas of expertise
 
-* Investigation of the hydrothermal synthesis and molecular mechanisms underlying the conversion of biomass components into humic substances.
-* Investigating the incorporation of various micro- and macronutrients into the structures of humic substances to improve the efficiency of the fertilisers produced.
-* Analysis of humification mechanisms in natural environments under different microbial influences.
-* Investigation of interactions between humic substances and minerals/organic compounds with emphasis on structural characterisation.
+- Synthesis of artificial humic substances from diverse biomass — hydrothermal, Fenton-type, and phenol-formaldehyde routes
+- Functionalisation and tailored derivatives — silanol-, phosphonate-, and quinone-modified humics for targeted properties
+- Product development — biostimulants, micronutrient fertilizers, scale inhibitors, dust-suppression and soil-remediation agents
+- Full development cycle — from laboratory concept through pilot to field trials and technical documentation
+- Analytical characterisation and quality control — NMR, ICP-AES, TOC, SAXS, and UV-Vis spectroscopy
 
-The complex nature of humic substances covers several scientific disciplines and requires an interdisciplinary approach. HM are an object of study in chemistry, biology, mathematics, and even philosophy. In spite of this complexity, the profound importance of humic matter systems in the environment underlines the importance of our research.
+## Selected projects
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/research3.jpg"/>
-</div>
+**Dust suppression and wind-erosion control.** Project leader. I led a small team developing silanol-functionalised humic derivatives as binding agents that immobilise dust particles on mineral surfaces. The work established, for the first time, the effectiveness of these derivatives against wind erosion — a promising route for mining, industrial sites, and urban air quality.
+
+**In-situ soil remediation (Nornickel).** I led the subgroup responsible for developing humic–bentonite washing agents for the in-situ clean-up of diesel-contaminated soils. My role spanned reagent development, analytical work, on-site field trials and client engagement, and the technical documentation — including product specifications and an environmental-impact assessment that supported pilot-scale deployment in the field.
+
+**Scale inhibitors for oil production (Irkutsk Oil Company).** I led the subgroup developing biopolymer-based inhibitor complexes to control mineral scaling in oil extraction. I was responsible for reagent development, analytical characterisation, core-flooding tests under reservoir conditions, and direct communication with the client, including presenting results.
+
+**Redox-active humics for biogas control.** I led the subgroup developing quinone-enriched humic derivatives, via green-chemistry synthesis, designed to suppress methane generation in landfill and anaerobic systems, with a focus on structure–property relationships.
+
+**Antimicrobial and wound-healing materials.** I led the subgroup developing humic-based bionanomaterials, including silver-nanoparticle gels and ointments with antimicrobial and wound-healing properties — demonstrating the versatility of humic substances beyond agriculture.
+
+**Contract analysis and quality control.** I carried out quantitative analysis and quality control of commercial humic products for agro-input manufacturers, characterising humic- and fulvic-acid content and reporting results to clients.

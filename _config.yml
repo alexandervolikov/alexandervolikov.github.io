@@ -25,11 +25,11 @@ author:
   name             : "Alexander Volikov"
   pronouns         : # example: "she/her"  
   bio              : "PhD chemist · applied & sustainable chemistry · R&D project & product development"
-  location         : "Germany, Potsdam"
-  employer         : "MPIKG"
-  employer_url     : "https://www.mpikg.mpg.de/6826885/from-biomass-to-humic-matter-systems"
+  location         : "Germany, Berlin"
+  employer         : # "MPIKG"
+  employer_url     : # "https://www.mpikg.mpg.de/6826885/from-biomass-to-humic-matter-systems"
   uri              : # URL
-  email            : "alexander.volikov@mpikg.mpg.de" 
+  email            : "alexander.volikov@outlook.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

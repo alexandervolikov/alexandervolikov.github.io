@@ -7,10 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/research2.jpg"/>
-</div>
-
 I develop functional products based on humic substances — from molecular design and synthesis through to scale-up and field application. My work sits at the intersection of green chemistry, agriculture, and environmental technology, turning biomass and bio-waste into materials that improve soils, deliver nutrients, and solve industrial problems.
 
 ## Current work

@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/about1.jpg"/>
-</div>
-
 ## About Me
 
 I'm a PhD chemist with 15+ years in sustainable and applied chemistry, focused on

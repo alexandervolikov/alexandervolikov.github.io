@@ -4,10 +4,6 @@ title: "Alexander Volikov, PhD"
 author_profile: true
 ---
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/about1.jpg"/>
-</div>
-
 ## Über mich
 
 Ich bin promovierter Chemiker mit über 15 Jahren Erfahrung in der angewandten und nachhaltigen Chemie — mit dem Ziel, Chemie in Produkte und Prozesse zu überführen, die außerhalb des Labors funktionieren. Ich entwickle maßgeschneiderte chemische Lösungen über den gesamten Entwicklungszyklus — vom Synthesekonzept über Scale-up und Pilotversuch bis zur Feldanwendung.

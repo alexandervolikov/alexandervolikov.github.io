@@ -7,10 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-<div class="container">
-    <img src="{{ site.baseurl }}/images/research2.jpg"/>
-</div>
-
 Ich entwickle funktionale Produkte auf Basis von Huminstoffen — vom molekularen Design und der Synthese über das Scale-up bis zur Feldanwendung. Meine Arbeit liegt an der Schnittstelle von grüner Chemie, Landwirtschaft und Umwelttechnik und überführt Biomasse und Bioabfälle in Materialien, die Böden verbessern, Nährstoffe bereitstellen und industrielle Probleme lösen.
 
 ## Aktuelle Arbeit

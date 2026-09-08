@@ -72,14 +72,6 @@ PhD chemist with 15+ years in sustainable and applied chemistry, with a focus on
 
 ---
 
-## Teaching & Supervision
-
-* 2021 — Lecturer, practical course: Preparation of humic-silanol compositions. Master students, Lomonosov MSU.
-* 2019 — Lecturer, practical course: Separation and characterisation of humic substances, Lomonosov MSU.
-* 2011 – present — Supervision of students and researchers; informal co-supervision of 2 PhD students to completion.
-
----
-
 ## Languages
 
 * **Russian** — Native

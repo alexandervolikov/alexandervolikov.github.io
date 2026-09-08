@@ -70,20 +70,6 @@ Promovierter Chemiker mit über 15 Jahren Erfahrung in der nachhaltigen und ange
 
 ---
 
-## Weiterbildung
-
-* **Geprüfter Projektmanager Wirtschaftschemie (GDCh)** — geplant Frühjahr 2027 (Präsenzveranstaltung).
-
----
-
-## Lehre & Betreuung
-
-* 2021 — Dozent, Praktikumskurs: Herstellung von Huminsilan-Kompositionen. Masterstudierende, Lomonossow-Universität Moskau.
-* 2019 — Dozent, Praktikumskurs: Trennung und Charakterisierung von Huminstoffen, Lomonossow-Universität Moskau.
-* 2011 – heute — Betreuung von Studierenden und wissenschaftlichen Mitarbeitern; informelle Mit-Betreuung von 2 Promotionen bis zum Abschluss.
-
----
-
 ## Sprachen
 
 * **Russisch** — Muttersprache
